@@ -1,8 +1,8 @@
 //string is a sequence of characters
 
 var str = 'hello pepcoders';
-// // H e l l o <space> p e p c o  d  e   r  s        
-// // 0,1,2,3,4,   5,   6,7,8,9,10,11,12,13,14 
+// H e l l o <space> p e p c o  d  e   r  s        
+// 0,1,2,3,4,   5,   6,7,8,9,10,11,12,13,14 
 console.log(str);
 
 console.log(str[4]);
