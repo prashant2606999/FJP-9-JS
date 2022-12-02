@@ -1,16 +1,16 @@
-// var obj = {}; //empty object
-// console.log(obj);
+var obj = {}; //empty object
+console.log(obj);
 
-// var person = {
-//     name: "Abhishek", //-> "name":"Abhishek"
-//     age: 23,
-//     phone: 999999999, //-> "phone":999999999
-//     isMale: true,
-//     height: "170cm",
-//     "school name": "Delhi Public School",
+var person = {
+    name: "Abhishek", //-> "name":"Abhishek"
+    age: 23,
+    phone: 999999999, //-> "phone":999999999
+    isMale: true,
+    height: "170cm",
+    "school name": "Delhi Public School",
     
-// }
-// console.log(person);
+}
+console.log(person);
 
 // //dot notation
 // console.log(person.name);
