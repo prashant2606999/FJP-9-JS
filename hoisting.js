@@ -122,15 +122,3 @@ var b = 45;
 console.log(a); //10
 console.log(b); //45
 console.log(c); //error
-
-
-
-
-
-
-
-
-
-
-
-
